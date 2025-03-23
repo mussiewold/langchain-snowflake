@@ -109,3 +109,12 @@ Make sure that the prompt you send to the model contains enough context and is c
 ### Customer Distribution by Age Groups
 
 ![Customer Distribution by Age Groups](images/customer_distribution_age_groups.png)
+
+### ChatGPT - User ask a question about churned cutomers 
+
+![Predict the churn rate for customers aged over 50.](images/predict_churn_rate_customers.png)
+
+### ChatGPT - User ask a question about churned cutomers 
+
+![The estimated number of churns from customer over 50 in the next quarter?](images/predict_churn_rate_customers.png) 
+

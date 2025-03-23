@@ -1,4 +1,4 @@
-# langchain-snowflake
+# langchain-snowflake Cortex - ChatGPT 
 Snowflake langchain and streamlit
 
 

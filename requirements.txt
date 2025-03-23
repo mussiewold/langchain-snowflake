@@ -1,0 +1,7 @@
+pandas
+snowflake-connector-python
+streamlit
+langchain
+langchain_community
+openai
+python-dotenv
